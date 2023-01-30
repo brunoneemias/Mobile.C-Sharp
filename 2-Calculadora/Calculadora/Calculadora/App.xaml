@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.App">
+    <Application.Resources>
+        <?Padronização do stilos dos objetos  ?>
+        <ResourceDictionary>
+            <Style x:Key="botaoGeral" TargetType="Button">
+                <Setter Property="TextColor" Value="#051E36"/>
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="HorizontalOptions" Value="Fill"/>
+                <Setter Property="VerticalOptions" Value="Fill"/>
+            </Style>
+            <?Botao claro baseado no botao geral   ?>
+            <Style x:Key="botaoClaro" TargetType="Button" BasedOn="{StaticResource botaoGeral}">
+                <Setter Property="BackgroundColor" Value="Silver" /> 
+            </Style>
+
+            <Style x:Key="botaoEscuro" TargetType="Button" BasedOn="{StaticResource botaoGeral}">
+                <Setter Property="BackgroundColor" Value="#555" />
+                <Setter Property="TextColor" Value="WhiteSmoke"/>
+            </Style>
+
+            <Style x:Key="botaoColorido" TargetType="Button" BasedOn="{StaticResource botaoGeral}">
+                <Setter Property="BackgroundColor" Value="YellowGreen" />
+                <Setter Property="TextColor" Value="WhiteSmoke"/>
+            </Style>
+
+
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

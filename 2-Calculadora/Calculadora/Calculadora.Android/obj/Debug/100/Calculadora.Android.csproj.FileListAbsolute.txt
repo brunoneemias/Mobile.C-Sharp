@@ -1,0 +1,4 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 3\Mobile Programming 2\8 - August\Class 02 - Calculadora\Calculadora\Calculadora\Calculadora.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 3\Mobile Programming 2\8 - August\Class 02 - Calculadora\Calculadora\Calculadora\Calculadora.Android\obj\Debug\100\build.props
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 3\Mobile Programming 2\8 - August\Class 02 - Calculadora\Calculadora\Calculadora\Calculadora.Android\obj\Debug\100\adb.props
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 3\Mobile Programming 2\8 - August\Class 02 - Calculadora\Calculadora\Calculadora\Calculadora.Android\obj\Debug\100\Calculadora.Android.csproj.AssemblyReference.cache
